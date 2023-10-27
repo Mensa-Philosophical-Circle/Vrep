@@ -11,7 +11,7 @@ To get started, follow these steps:
 2. **Clone Your Fork**: Use Git to clone your fork of the repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/vrep.git
+   git clone https://github.com/Mensa-Philosophical-Circle/Vrep.git
    ```
 
 3. **Create a Feature Branch**: Create a new branch for your contribution with a descriptive name.
