@@ -10,7 +10,7 @@
 
 VREP is an open-source 3D education platform designed to provide an immersive and interactive learning experience. It allows students to explore complex concepts in a three-dimensional virtual environment, making learning more engaging and effective.
 
-VREP is an ideal tool for students who want to leverage the power of 3D visualization and simulation to enhance the learning process. Whether you are learning physics, biology, architecture, or any other subject that benefits from hands-on, visual learning, VREP has the potential to revolutionize your educational experience.
+VREP is an ideal tool for students who want to leverage the power of 3D visualization and simulation to enhance the learning process. Whether you are learning physics, computer science, architecture, or any other course that benefits from hands-on, visual learning, VREP has the potential to revolutionize your educational experience.
 
 
 ## Features
